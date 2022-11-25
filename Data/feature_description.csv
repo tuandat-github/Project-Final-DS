@@ -1,0 +1,9 @@
+Feature,Description
+Weather Type,Loại thời tiết
+Highest Temperature,Nhiệt độ cao nhất trong ngày (°C)
+Lowest Temperature,Nhiệt độ thấp nhất trong ngày (°C)
+Wind Speed,Tốc độ gió (km/h)
+Rain,Lượng mưa (mm)
+Humidity,Độ ẩm (%)
+Cloud,Độ che phủ của mây (%)
+Pressure,Áp suất không khí (mb)
